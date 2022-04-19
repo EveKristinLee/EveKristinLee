@@ -1,7 +1,6 @@
 <div align="center">
 
 ## 안녕하세요! 스스로 생각하고 발전하는 Backend개발자 이지영입니다☺️  
-<br/>
 
 ### ⚒️Tech Stack⚒️
 
@@ -16,7 +15,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">  
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">  
-<br/>
+<br/><br/>
   
 ### 🤝Cowork Tools🤝
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
