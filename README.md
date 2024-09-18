@@ -1,6 +1,6 @@
 <div align="center">
 
-## 안녕하세요! 스스로 생각하고 발전하는 Backend개발자 이지영입니다☺️  
+## 안녕하세요! 스스로 생각하고 발전하는 Backend개발자입니다☺️  
 
 ### ⚒️Tech Stack⚒️
 
